@@ -99,3 +99,38 @@ Views: views_gold.sql
 	•	Azure Role-based Access Control (RBAC)
 	•	External tables & views in Synapse
 	•	Power BI visualization on Synapse data
+
+ ## SCREENSHOTS
+
+<img width="1328" alt="s1" src="https://github.com/user-attachments/assets/18beb58d-949b-4b67-9b37-1cc9a610002e" />
+<img width="1439" alt="s1 1" src="https://github.com/user-attachments/assets/eaa40756-f50d-410c-a961-b3e11060bafd" />
+<img width="1439" alt="s1 2" src="https://github.com/user-attachments/assets/0ac476af-f2c6-4d04-aba4-b17b036dab83" />
+<img width="1431" alt="s2" src="https://github.com/user-attachments/assets/978058a2-5af9-46d4-bd62-5ddaebaa5130" />
+<img width="1257" alt="s3" src="https://github.com/user-attachments/assets/5fc7214f-2c94-4cff-a3bb-7401d1f31430" />
+<img width="1435" alt="s4" src="https://github.com/user-attachments/assets/09fe0e2a-c380-4ea1-9f4f-3cfbb483deae" />
+<img width="1435" alt="s5" src="https://github.com/user-attachments/assets/56c3f2d4-4d94-462a-8bd4-4821c0f3dde9" />
+<img width="1317" alt="s6" src="https://github.com/user-attachments/assets/e6126347-eba6-4d1d-b8a9-9996ba537ea5" />
+<img width="1424" alt="s7" src="https://github.com/user-attachments/assets/15e78520-418a-411b-93ef-647f382eeb27" />
+<img width="1426" alt="s8" src="https://github.com/user-attachments/assets/ff86e70d-38bf-4351-91a4-1d7f2d5e7954" />
+<img width="1426" alt="s9" src="https://github.com/user-attachments/assets/4263b379-fe60-48f8-bcf5-d82d9d886f3a" />
+<img width="1418" alt="s10" src="https://github.com/user-attachments/assets/b974df42-27ab-41df-b009-c21b653ef8e6" />
+<img width="1429" alt="s11" src="https://github.com/user-attachments/assets/9662c9aa-9c2b-48f0-9dc3-045ca1eed3e5" />
+<img width="1365" alt="s12" src="https://github.com/user-attachments/assets/6cbb7646-6032-4c1b-8e62-2889bc3cdc2f" />
+<img width="1353" alt="s13" src="https://github.com/user-attachments/assets/97ef6496-aca5-46bd-a247-a20b97fc61f8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
